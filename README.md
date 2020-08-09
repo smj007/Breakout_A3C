@@ -1,6 +1,6 @@
-**Breakout - A3C**
+**Breakout - A3C + LSTM**
 
-An A3C implementation to ace the Breakout game by Atari
+An A3C implementation to ace the Breakout game by Atari, modified with the addition of an LSTM for improved performance
 
    _Breakout_ is an arcade game developed and published by Atari, Inc., and released on May 13, 1976. Our goal in this project is to use Reinforcement learning to train AI Agent to play Breakout game.
 
