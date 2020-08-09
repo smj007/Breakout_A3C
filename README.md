@@ -31,3 +31,7 @@ Q values are not being found here, so we can use the discounted returns (R) as a
 [1] [https://arxiv.org/pdf/1506.02438.pdf](https://arxiv.org/pdf/1506.02438.pdf)
 
 [2] [https://arxiv.org/pdf/1607.05077](https://arxiv.org/pdf/1607.05077)
+
+
+**Future Enhancements:**
+   - UNREAL Algorithm (to beat A3C + LSTM) 
