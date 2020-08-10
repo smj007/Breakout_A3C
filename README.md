@@ -2,6 +2,11 @@
 
 An A3C implementation to ace the Breakout game by Atari, modified with the addition of an LSTM for improved performance
 
+**To run :**
+- Download the Breakout_Run colab notebook 
+- Upload the .py scripts onto drive and mount through colab
+- Follow the code cells in the notebook, modifying the file location accordingly
+
    _Breakout_ is an arcade game developed and published by Atari, Inc., and released on May 13, 1976. Our goal in this project is to use Reinforcement learning to train AI Agent to play Breakout game.
 
 ![](https://miro.medium.com/max/1392/1*YtnGhtSAMnnHSL8PvS7t_w.png)
