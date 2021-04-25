@@ -1,3 +1,9 @@
+<div align = "center">
+    
+### ☢️ Breakout - A3C + LSTM :radioactive:
+</div>
+
+
 **Breakout - A3C + LSTM**
 
 An A3C implementation to ace the Breakout game by Atari, modified with the addition of an LSTM for improved performance
